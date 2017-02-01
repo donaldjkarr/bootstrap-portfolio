@@ -1,0 +1,23 @@
+.panel-primary {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.panel-info {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.panel-success {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.panel-title {
+	text-align: center;
+}
+
+.push	{
+	height: 80px;
+}
+
